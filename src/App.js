@@ -66,7 +66,7 @@ function App(){
      <div className='content3' id='xch'>
       <form action="https://formsubmit.co/eriktonoyan827@gmail.com" method="POST">
       <input type="hidden" name="_captcha" value="false" />
-      <input type="hidden" name="_next" value="https://guitarlessons.netlify.app"></input>
+      <input type="hidden" name="_next" value="https://guitarlesson.github.io"></input>
       <h1>{t("main.contact-h1")}</h1>
         <input type='text' name="name" placeholder={t("main.input-name")} />
         <input type='email' name='email' placeholder={t("main.input-name2")} required/>
